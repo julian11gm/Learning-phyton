@@ -42,8 +42,20 @@ print(tupla1)
 
 # If/else
 if name23 == "Lebron":
-    print("El mejor jugador es Lebron")
+    print("El jugador mas viejo es Lebron")
+elif name25 == "Antetokounmpo":
+    print("El jugador mas viejo es Antetokounmpo")
+else:
+    print("El jugador no es Lebron")
     
+# for 
+def my_function():
+ print("Julian es el mejor jugador de baloncesto")
+
+for my_function  in range(10):
+    my_function()
+    
+ 
 
 
 
